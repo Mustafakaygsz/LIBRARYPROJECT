@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SİfreYenile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UyeAnaEkranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UyeKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="uye_menu_pages\Iade_islem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="UyeAnaEkranı.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

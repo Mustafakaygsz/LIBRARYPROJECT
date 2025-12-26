@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzXGC697Q54=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EXCALIBUR\\OneDrive\\Masaüstü\\LİBRARYPROJECT\\LİBRARYPROJECT\\LİBRARYPROJECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\EXCALIBUR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Paket güvenlik açığı verileri alınırken hata oluştu: https://api.nuget.org/v3/index.json kaynağı için hizmet dizini yüklenemiyor.",
+      "projectPath": "C:\\Users\\EXCALIBUR\\OneDrive\\Masaüstü\\LİBRARYPROJECT\\LİBRARYPROJECT\\LİBRARYPROJECT.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\EXCALIBUR\\OneDrive\\Masaüstü\\LİBRARYPROJECT\\LİBRARYPROJECT\\LİBRARYPROJECT.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
