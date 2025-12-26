@@ -17,7 +17,7 @@ Bu proje, C# Windows Form kullanılarak geliştirilmiş kapsamlı bir kütüphan
 
 ## 🚀 Kurulum
 
-1. Projeyi klonlayın: `git clone https://github.com/kullanici-adin/LIBRARYPROJECT.git`
+1. Projeyi klonlayın: `git clone https://github.com/Mustafakaygsz/LIBRARYPROJECT.git`
 2. Visual Studio ile açın.
 3. Projeyi derleyin ve çalıştırın.
 
